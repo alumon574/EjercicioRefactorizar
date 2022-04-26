@@ -1,6 +1,5 @@
 package com.company;
 public class Primos {
-
     /**
      * @param max Numero que determina el usuario como maximo para la generación de núemros primos
      * @return Devuelve el metodo que realiza el llenado del vector con numeros primos
